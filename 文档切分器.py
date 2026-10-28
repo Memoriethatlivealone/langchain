@@ -129,3 +129,4 @@ print(f"原始文本被分割成了 {len(texts)} 个块:")
 for i, chunk in enumerate(texts):
     print(f"块 {i+1}: 长度：{len(chunk)} 内容：{chunk}")
     print("-" * 50)
+#文档切割
