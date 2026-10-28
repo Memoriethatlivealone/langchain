@@ -1,0 +1,13 @@
+{
+  "source": "mock",
+  "updated": "2026-10-23",
+  "fields": ["condition", "temp_low", "temp_high", "air", "humidity"],
+  "cities": {
+    "北京": { "condition": "多云", "temp_low": 15, "temp_high": 22, "air": "良", "humidity": 45 },
+    "上海": { "condition": "晴天", "temp_low": 18, "temp_high": 25, "air": "优", "humidity": 60 },
+    "深圳": { "condition": "小雨", "temp_low": 22, "temp_high": 28, "air": "优", "humidity": 75 },
+    "成都": { "condition": "阴天", "temp_low": 16, "temp_high": 23, "air": "良", "humidity": 70 },
+    "杭州": { "condition": "晴天", "temp_low": 17, "temp_high": 24, "air": "优", "humidity": 55 },
+    "广州": { "condition": "多云", "temp_low": 21, "temp_high": 29, "air": "良", "humidity": 72 }
+  }
+}
