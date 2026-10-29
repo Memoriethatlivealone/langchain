@@ -234,3 +234,4 @@ v = embedding_model.embed_documents(["Hi, there!", "Oh, hello!", "Hello World!"]
 print(f"Hi vs Oh     : {cosine(v[0], v[1]):.4f}")
 print(f"Hi vs Hello  : {cosine(v[0], v[2]):.4f}")
 print(f"Oh vs Hello  : {cosine(v[1], v[2]):.4f}")
+#文档嵌入
