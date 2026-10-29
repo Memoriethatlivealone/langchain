@@ -3,6 +3,7 @@ name = "my-langchain-agent"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "dashscope>=2.0.2",
     "dotenv>=0.9.9",
     "fonttools>=4.67.0",
     "jinja2>=3.1.6",
@@ -10,6 +11,7 @@ dependencies = [
     "langchain>=1.4.7",
     "langchain-community>=0.4.2",
     "langchain-deepseek>=1.1.1",
+    "langchain-experimental>=0.4.2",
     "langchain-openai>=1.7.2",
     "langchain-unstructured>=1.0.1",
     "pypdf>=6.21.2",

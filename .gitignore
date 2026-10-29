@@ -1,13 +1,10 @@
 # 环境变量
 .env
-
 # 虚拟环境
 .venv/
-
 # Python 缓存
 __pycache__/
 *.py[cod]
-
 # 系统 / 编辑器
 .DS_Store
 .idea/
